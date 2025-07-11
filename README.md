@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akul Prabhudev</h1>
-<h3 align="center">Engineer | Inventor | AI Researcher | COO @ Nuevera</h3>
+<h3 align="center">Engineer | Inventor | AI Researcher | Acting CTO @ Nuevera</h3>
 
 <p align="center">
   <a href="mailto:akul.prabhudev@nueverainfotech.com"><img src="https://img.shields.io/badge/email-Contact%20Me-informational?style=flat&logo=gmail" /></a>

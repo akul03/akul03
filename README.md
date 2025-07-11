@@ -1,52 +1,77 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Akul Prabhudev</h1>
+<h3 align="center">Engineer | Inventor | AI Researcher | COO @ Nuevera</h3>
 
-###
+<p align="center">
+  <a href="mailto:akul.prabhudev@nueverainfotech.com"><img src="https://img.shields.io/badge/email-Contact%20Me-informational?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/akul03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-akul03-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/akul03" target="_blank"><img src="https://img.shields.io/badge/GitHub-akul03-informational?style=flat&logo=github" /></a>
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+---
 
-###
+### 🧠 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- 🛠️ Currently working on **AI-driven panic detection & school safety systems**
+- 🤝 Open to collaborations on **healthtech, safety systems, and applied ML**
+- 🌱 Exploring **multi-agent systems, transformers & embedded AI**
+- 💡 Ask me about: **Explainable AI, ML model optimization, & Raspberry Pi**
+- ⚡ Fun fact: Certified cricket umpire & personal trainer! 🏏💪
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 📘 Publications & Patent
 
-###
+- 🧠 IEEE TENSYMP 2024 – *Trigeminal Neuralgia Diagnosis using Gradient Boosting & SHAP/LIME (97.2% accuracy)*
+- 🪖 IEEE IEACon 2024 – *Helmet Detection System with YOLOv9 (95.8%) & ECU ignition control*
+- 🛡️ **Patent Filed** – *System for Headgear Detection & Dynamic Weight Distribution* (App. No. 202441070273 A)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### 🚀 Projects
+
+- 🔒 [**Panic Shield**](https://github.com/akul03/Panic-sheild) – Detects panic attacks via Apple Watch & alerts emergency contacts (92% accurate)
+- 🛵 [**Ride w Me**](https://github.com/akul03/RIDE-w-ME) – Motorcycle crash detection & real-time travel tracker
+- 🧢 **HelmetBalance Tech** – Smart vehicle safety module using YOLOv9, sensor fusion & ECU integration
+
+---
+
+### 🏢 Experience
+
+**COO @ Nuevera Infotech** (Mar'24 – Present)  
+Led digital transformation in government schools through a smart School Management System  
+✅ Reduced paperwork by 70–80% and improved decision speed by 30%
+
+**Business Development Intern @ ANKA SUMMOR**  
+Worked on marketing and HR strategies in the FMCG domain
+
+---
+
+### 🎖️ Achievements
+
+- 🏏 **Qualified Cricket Umpire** for all formats (KSCA State Zonal)
+- 🏋️ Certified **Personal Trainer & Weight Loss Coach**
+- 📜 **CAPM Certified** (PMI)
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nodejs,flask,raspberrypi,firebase,sklearn,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akul03&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akul03&theme=radical" width="47%" />
+</p>
+
+---
+
+> *“The best way to predict the future is to invent it.” – Alan Kay*
+
+---
+
